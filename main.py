@@ -14,6 +14,6 @@ color = 0x45608f
 async def on_ready():
     print("Started")
     
-from ban import *
+from mod.ban import *
 
 bot.run('ODYyOTMyOTE5MDM4NzcxMjAx.YOfi6A.OYGjuaT2QKEujO2PFm_vPRYI8G4')
